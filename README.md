@@ -1,10 +1,6 @@
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> Hi I'm
-
-# Nguyễn Tiến Đạt
-
-### Back-end Developer · Ho Chi Minh city, Vietnam
+  
+### Contact me
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ntiendat514@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Datnguynx110605)
