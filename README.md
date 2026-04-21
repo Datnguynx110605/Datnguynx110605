@@ -1,13 +1,10 @@
-<div align="center">
-  
+
 ### Contact me
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ntiendat514@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Datnguynx110605)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tiến-đạt-nguyễn-b5a1273b7)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://www.stackoverflow.com/users/32636461/tiến-Đạt-nguyễn)
-
-</div>
 
 ---
 
