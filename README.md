@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-I'm a passionate and dedicated **Back-End Developer** based in Ho Chi Minh city, Vietnam, I focused on building scalable and
+I'm a passionate and dedicated **Full-stack Developer** based in Ho Chi Minh city, Vietnam, I focused on building scalable and
 maintainable server-side systems. I'm trying to get better at leanring and doing my job everyday.
 
-- 🔭 Deepening expertise in **.NET ecosystem** and **cloud-native** development
-- 🧠 Operating back-end system in **Clean Architecture**, **DDD**, **Rich Domain Model**, **CQRS pattern** and **RESTful API** 
+- 🧠 Operating back-end .NET ecosystem in **Clean Architecture**, **DDD**, **Rich Domain Model**, **CQRS pattern** and **RESTful API**
+- 🔭 Operating front-end using **React + TypeScript**, **HTML** and **CSS**
 - 💬 Ask me anything about back-end challenges — I'm always happy to discuss
 - 📫 Reach me at **ntiendat514@gmail.com**
 
@@ -26,6 +26,10 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
   
   ![C#](https://skillicons.dev/icons?i=cs)
   ![.NET](https://skillicons.dev/icons?i=dotnet)
+  ![.React](https://skillicons.dev/icons?i=react)
+  ![.TypeScript](https://skillicons.dev/icons?i=typescript)
+  ![.HTML](https://skillicons.dev/icons?i=html)
+  ![.CSS](https://skillicons.dev/icons?i=css)
   
   **Databases**
 
@@ -38,11 +42,12 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![Azure](https://skillicons.dev/icons?i=azure)
   ![AWS](https://skillicons.dev/icons?i=aws)
-  ![Firebase](https://skillicons.dev/icons?i=firebase)
   
   **IDE & Tools**
 
-  ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
+  ![VS](https://skillicons.dev/icons?i=visualstudio)
+  ![VSCode](https://skillicons.dev/icons?i=vscode)
+  ![Git](https://skillicons.dev/icons?i=git)
   ![Github](https://skillicons.dev/icons?i=github)
   ![Postman](https://skillicons.dev/icons?i=postman)
   ![Notion](https://skillicons.dev/icons?i=notion)
