@@ -15,7 +15,7 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
 
 - 🧠 Operating back-end .NET ecosystem in **Clean Architecture**, **DDD**, **Rich Domain Model**, **CQRS pattern** and **RESTful API**
 - 🔭 Operating front-end using **React + TypeScript**, **HTML** and **CSS**
-- 💬 Ask me anything about back-end challenges — I'm always happy to discuss
+- 💬 I'm currently working on **https://github.com/Datnguynx110605/Connect.-E-Commercial-Project.git**
 - 📫 Reach me at **ntiendat514@gmail.com**
 
 ---
