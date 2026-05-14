@@ -40,12 +40,10 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
   **DevOps & Cloud**
 
   ![Docker](https://skillicons.dev/icons?i=docker)
-  ![Azure](https://skillicons.dev/icons?i=azure)
   ![AWS](https://skillicons.dev/icons?i=aws)
   
   **IDE & Tools**
 
-  ![VS](https://skillicons.dev/icons?i=visualstudio)
   ![VSCode](https://skillicons.dev/icons?i=vscode)
   ![Git](https://skillicons.dev/icons?i=git)
   ![Github](https://skillicons.dev/icons?i=github)
