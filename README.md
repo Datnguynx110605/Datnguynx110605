@@ -30,6 +30,7 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
   ![.TypeScript](https://skillicons.dev/icons?i=typescript)
   ![.HTML](https://skillicons.dev/icons?i=html)
   ![.CSS](https://skillicons.dev/icons?i=css)
+  ![.Swift](https://skillicons.dev/icons?i=swift)
   
   **Databases**
 
@@ -41,6 +42,7 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
 
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![AWS](https://skillicons.dev/icons?i=aws)
+  ![GoogleCloud](https://skillicons.dev/icons?i=googlecloud)
   
   **IDE & Tools**
 
@@ -48,7 +50,6 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
   ![Git](https://skillicons.dev/icons?i=git)
   ![Github](https://skillicons.dev/icons?i=github)
   ![Postman](https://skillicons.dev/icons?i=postman)
-  ![Notion](https://skillicons.dev/icons?i=notion)
   
 ---
 
