@@ -10,12 +10,10 @@
 
 ## 👋 About Me
 
-I'm a passionate and dedicated **Full-stack Developer** based in Ho Chi Minh city, Vietnam, I focused on building scalable and
-maintainable server-side systems. I'm trying to get better at leanring and doing my job everyday.
+I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, Vietnam, I focused on designing back-end system and developing back-end system focusing on Scalability, Availability, Consistency.
 
-- 🧠 Operating back-end .NET ecosystem in **Clean Architecture**, **DDD**, **Rich Domain Model**, **CQRS pattern** and **RESTful API**
-- 🔭 Operating front-end using **React + TypeScript**, **HTML** and **CSS**
-- 💬 I'm currently working on **https://github.com/Datnguynx110605/Connect.-E-Commercial-Project.git**
+- 🧠 Operating back-end in **.NET** and deploying in **Docker**, **AWS**.
+- 💬 I founded **Bloom | Daily planner** and I'm currently working on **Bloom | Daily planner on App Store**
 - 📫 Reach me at **ntiendat514@gmail.com**
 
 ---
@@ -26,11 +24,6 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
   
   ![C#](https://skillicons.dev/icons?i=cs)
   ![.NET](https://skillicons.dev/icons?i=dotnet)
-  ![.React](https://skillicons.dev/icons?i=react)
-  ![.TypeScript](https://skillicons.dev/icons?i=typescript)
-  ![.HTML](https://skillicons.dev/icons?i=html)
-  ![.CSS](https://skillicons.dev/icons?i=css)
-  ![.Swift](https://skillicons.dev/icons?i=swift)
   
   **Databases**
 
@@ -42,7 +35,6 @@ maintainable server-side systems. I'm trying to get better at leanring and doing
 
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![AWS](https://skillicons.dev/icons?i=aws)
-  ![GoogleCloud](https://skillicons.dev/icons?i=googlecloud)
   
   **IDE & Tools**
 
