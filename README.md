@@ -43,22 +43,3 @@ I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, 
   ![Github](https://skillicons.dev/icons?i=github)
   ![Postman](https://skillicons.dev/icons?i=postman)
   
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Datnguynx110605&show_icons=true&hide=prs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&rank_icon=github" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datnguynx110605&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&layout=compact&custom_title=Top%20Languages" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Datnguynx110605&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&background=0d1117)
-
-</div>
-
-
