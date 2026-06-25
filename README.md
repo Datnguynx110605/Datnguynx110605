@@ -10,10 +10,10 @@
 
 ## 👋 About Me
 
-I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, Vietnam, I focused on designing back-end system and developing back-end system focusing on Scalability, Availability, Consistency.
+I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, Vietnam, I focused on designing back-end system and developing back-end system focusing on **Scalability, Availability, Consistency**.
 
 - 🧠 Operating back-end in **.NET** and deploying in **Docker**, **AWS**.
-- 💬 I founded **Bloom | Daily planner** and I'm currently working on **Bloom | Daily planner on App Store**
+- 💬 I founded **Bloom | Daily planner** and I'm currently working on **Bloom | Daily planner** on App Store.
 - 📫 Reach me at **ntiendat514@gmail.com**
 
 ---
