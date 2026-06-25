@@ -12,7 +12,7 @@
 
 I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, Vietnam, I focused on designing back-end system and developing back-end system focusing on **Scalability, Availability, Consistency**.
 
-- 🧠 Operating back-end in **.NET** and deploying in **Docker**, **AWS**.
+- 🧠 Operating back-end and database in **.NET**, **NoSQL & SQL** | Testing back-end in **Postman, Grafana k6** | Designing CI/CD pipelines in **Docker, GitActions, Kubernetes, AWS**.
 - 💬 I founded **Bloom | Daily planner** and I'm currently working on **Bloom | Daily planner** on App Store.
 - 📫 Reach me at **ntiendat514@gmail.com**
 
@@ -28,18 +28,24 @@ I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, 
   **Databases**
 
   ![MySQL](https://skillicons.dev/icons?i=mysql)
+  ![PostgresSQL](https://skillicons.dev/icons?i=postgres)
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   ![Redis](https://skillicons.dev/icons?i=redis)
   
   **DevOps & Cloud**
 
   ![Docker](https://skillicons.dev/icons?i=docker)
+  ![GitActions](https://skillicons.dev/icons?i=githubactions)
+  ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
   ![AWS](https://skillicons.dev/icons?i=aws)
   
   **IDE & Tools**
 
   ![VSCode](https://skillicons.dev/icons?i=vscode)
+  ![Postman](https://skillicons.dev/icons?i=postman)
+  ![Grafana](https://skillicons.dev/icons?i=grafana)
+
+  **Source Controls**
+
   ![Git](https://skillicons.dev/icons?i=git)
   ![Github](https://skillicons.dev/icons?i=github)
-  ![Postman](https://skillicons.dev/icons?i=postman)
-  
