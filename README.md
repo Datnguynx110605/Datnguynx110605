@@ -14,12 +14,6 @@ I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, 
 
 ---
 
-## 📊 Contribution Graph
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/Datnguynx110605)](https://github.com/Datnguynx110605)
-
----
-
   ## 🛠️ Tech Stack
   
   **Languages & Frameworks**
@@ -46,6 +40,9 @@ I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, 
 
   ![Postman](https://skillicons.dev/icons?i=postman)
   ![Grafana](https://skillicons.dev/icons?i=grafana)
+
+  ---
+  
   ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
   ![Kafka](https://skillicons.dev/icons?i=kafka)
 
@@ -53,3 +50,11 @@ I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, 
 
   ![Git](https://skillicons.dev/icons?i=git)
   ![Github](https://skillicons.dev/icons?i=github)
+
+---
+
+## 📊 Contribution Graph
+
+[![GitHub Contribution Graph](https://ghchart.rshah.org/Datnguynx110605)](https://github.com/Datnguynx110605)
+
+---
