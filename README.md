@@ -1,4 +1,3 @@
-
 ### Contact me
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:ntiendat514@gmail.com)
@@ -12,6 +11,12 @@
 I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, Vietnam.
 
 - 📫 Reach me at **ntiendat514@gmail.com**
+
+---
+
+## 📊 Contribution Graph
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Datnguynx110605&theme=github-compact&hide_border=true)](https://github.com/Datnguynx110605)
 
 ---
 
