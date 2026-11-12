@@ -40,9 +40,6 @@ I'm a passionate and dedicated **Back-end Engineer** based in Ho Chi Minh city, 
 
   ![Postman](https://skillicons.dev/icons?i=postman)
   ![Grafana](https://skillicons.dev/icons?i=grafana)
-
-  ---
-  
   ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
   ![Kafka](https://skillicons.dev/icons?i=kafka)
 
